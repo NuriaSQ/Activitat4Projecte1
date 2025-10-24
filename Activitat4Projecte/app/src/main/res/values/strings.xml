@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activitat4Projecte</string>
+    <string name="benvinguda">Benvingut/da</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="usuari">Nom usuari</string>
+    <string name="enrere">Enrere</string>
+    <string name="numero">Número</string>
+    <string name="comprovar">Comprovar</string>
+    <string name="enunciat">Endevina un número del 1 al 3, %1$s:</string>
+    <string name="success_message">Felicitats, %1$s! Has encertat!\n\nNúmero que has escollit: %2$d\nNúmero correcte: %3$d</string>
+    <string name="fail_message">Quina llàstima, %1$s! No has encertat.\n\nNúmero que has introduït: %2$d\nNúmero correcte: %3$d</string>
+    <string name="data_avui">Avui és %1$s</string>
+    <string name="numero_invalid">Introdueix un número vàlid.</string>
+    <string name="num_fora_de_rang">El número ha de ser entre 1 i 3.</string>
+</resources>
